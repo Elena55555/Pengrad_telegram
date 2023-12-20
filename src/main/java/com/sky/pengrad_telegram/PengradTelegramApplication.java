@@ -9,7 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class PengradTelegramApplication  {
 
     public static void main(String[] args) {
-        SpringApplication.run(PengradTelegramApplication2.class, args);
+        SpringApplication.run(PengradTelegramApplication.class, args);
     }
 
 }

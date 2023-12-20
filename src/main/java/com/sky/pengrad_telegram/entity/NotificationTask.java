@@ -23,13 +23,10 @@ public class NotificationTask  {
         this.id = id;
         this.chat = chat;
         this.message = message;
-        this.clock = clock;
+        this.clock =   clock ;
     }
 
-
-
     public NotificationTask( ) {
-
     }
 
     public Long getId() {
